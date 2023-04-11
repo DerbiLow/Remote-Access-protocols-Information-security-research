@@ -48,9 +48,8 @@
 Согласно исследованию positive technologies «Актуальные киберугрозы: IV квартал 2022» года. [1]  Доля Шпионского ПО увеличилась, количество атак на частных пользователей составило 17%, а на компании пришлось 49% атак от общего числа всех зафиксированных взломов. Количество программ, используемых для получения удалённого администрирования возросло на 6% относительно прошлого квартала. Были обнаружены новые ботнеты (сети, состоящие из нескольких хостов, с запущенными на них автоматизированными системами): MCCrash (DDos-ботнет, перегружающий систему многочисленными запросами), способный атаковать Windows и Linux системы, GoTrim (программа, перебирающая данные уязвимостей), взламывающий уязвимые сайты на WordPress, способный обходить защиту ботов. Вернулись и старые угрозы, например, ботнет QakBot был использован для доставки вредоносного ПО для получения удалённого доступа, сбора данных или загрузки дополнительного вредоносного ПО на компьютер. 
 Таким образом, из всех вышеперечисленных фактов, можно сделать вывод: протоколы, а также сетевое оборудование, используемое для удалённого администрирования, должны быть хорошо защищены и обеспечивать нужный уровень информационной безопасности.
 
-                                          1. Общие понятия удалённого администрирования и сетевых протоколов,  
-                                   демонстрация функционала удалённого администрирования на основе существующей программы
-
+                          1. Общие понятия удалённого администрирования и сетевых протоколов,  
+                         демонстрация функционала удалённого администрирования на основе существующей программы
 
 Удалённое администрирование - способ управления компьютером с удалённой точки. Основные функции, которые можно выполнить при помощи удалённого администрирования: запуск программы на удалённом хосте, добавление и удаление пользователей, настройка системы, просмотр данных и многое другое. Удалённое администрирование в большинстве случаев осуществляется при помощи сторонних программ и защищённого канала связи.
 
@@ -825,23 +824,23 @@ Cisco Packet Tracer - эмулятор сети, созданный компан
                                  Приложение А (обязательное). Библиографический список
                        
 
-1.Positive technologies Актуальные киберугрозы: IV квартал 2022 года. официальный сайт. URL - https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/?utm_source=pt&utm_medium=cpm&utm_campaign=analytic-2023-02-17&utm_content=main-slider   (Дата обращения 15.03.2023). - Текст электронный
-2.AweSun официальный сайт. URL - https://sun.aweray.com/ru/ (Дата обращения 15.03.2023). - Текст электронный
-3.teacherbox официальный сайт. URL - https://teacherbox.ru/arhiv/pm02/lesson2/1-2-19-setevyie-protokolyi-udalennogo-upravleniya/.html   (Дата обращения 20.03.2023). - Текст электронный
-4.infourok.ru официальный сайт. URL - https://infourok.ru/nastrojka-protokolov-udalennogo-dostupa-5444335.html  (Дата обращения 22.03.2023). - Текст электронный
-5.Merion Academy - доступное IT образование официальный сайт. URL - https://www.youtube.com/@merionacademy  (Дата обращения 17.03.2023). - Видео формат
-6.wiki.merionet.ruофициальный сайт. URL - https://wiki.merionet.ru/seti/27/marshrutizator-kommutator-hab-chto-eto-i-v-chem-raznica/  (Дата обращения 18.03.2023). - Текст электронный
-7.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Протокол_передачи_данных (Дата обращения 22.03.2023). - Текст электронный
-8.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Алгоритм_Дейкстры   (Дата обращения 20.03.2023). - Текст электронный
-9.github.com официальный сайт. URL - https://github.com/DerbiLow/Kraskal-s-algorithm   (Дата обращения 20.03.2023). - Текст электронный
-10.www.securitylab.ru официальный сайт. URL - https://www.securitylab.ru/analytics/533599.php?clear_cache=Y   (Дата обращения 17.03.2023). - Текст электронный
-11.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Сервер_(программное_обеспечение)  (Дата обращения 20.03.2023). - Текст электронный
-12. translated.turbopages.orgо официальный сайт. URL - https://translated.turbopages.org/proxy_u/en-ru.ru.5d3f6415-641c943a-2d94ef89-74722d776562/https/en.wikipedia.org/wiki/Apple_Remote_Desktop  (Дата обращения 24.03.2023). - Текст электронный
-13.www.youtube.com официальный сайт. URL - https://www.youtube.com/watch?v=Jx-1oHhVlsE   (Дата обращения 25.03.2023). - Видео формат
-14.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/TLS (Дата обращения 25.03.2023). - Текст электронный
-15.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Virtual_Network_Computing  (Дата обращения 25.03.2023). - Текст электронный
-16.ru.wikipedia.org официальный сайт. URL -  https://ru.wikipedia.org/wiki/Протокол_RFB  (Дата обращения 25.03.2023). - Текст электронный
-17.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Remote_Desktop_Protocol (Дата обращения 25.03.2023). - Текст электронный
-18.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/SLIP  (Дата обращения 25.03.2023). - Текст электронный
-19.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/SSL  (Дата обращения 25.03.2023). - Текст электронный
+1.Positive technologies Актуальные киберугрозы: IV квартал 2022 года. официальный сайт. URL - https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/?utm_source=pt&utm_medium=cpm&utm_campaign=analytic-2023-02-17&utm_content=main-slider   (Дата обращения 15.03.2023). - Текст электронный <br>
+2.AweSun официальный сайт. URL - https://sun.aweray.com/ru/ (Дата обращения 15.03.2023). - Текст электронный<br>
+3.teacherbox официальный сайт. URL - https://teacherbox.ru/arhiv/pm02/lesson2/1-2-19-setevyie-protokolyi-udalennogo-upravleniya/.html   (Дата обращения 20.03.2023). - Текст электронный<br>
+4.infourok.ru официальный сайт. URL - https://infourok.ru/nastrojka-protokolov-udalennogo-dostupa-5444335.html  (Дата обращения 22.03.2023). - Текст электронный<br>
+5.Merion Academy - доступное IT образование официальный сайт. URL - https://www.youtube.com/@merionacademy  (Дата обращения 17.03.2023). - Видео формат<br>
+6.wiki.merionet.ruофициальный сайт. URL - https://wiki.merionet.ru/seti/27/marshrutizator-kommutator-hab-chto-eto-i-v-chem-raznica/  (Дата обращения 18.03.2023). - Текст электронныйv
+7.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Протокол_передачи_данных (Дата обращения 22.03.2023). - Текст электронный<br>
+8.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Алгоритм_Дейкстры   (Дата обращения 20.03.2023). - Текст электронный<br>
+9.github.com официальный сайт. URL - https://github.com/DerbiLow/Kraskal-s-algorithm   (Дата обращения 20.03.2023). - Текст электронный<br>
+10.www.securitylab.ru официальный сайт. URL - https://www.securitylab.ru/analytics/533599.php?clear_cache=Y   (Дата обращения 17.03.2023). - Текст электронный<br>
+11.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Сервер_(программное_обеспечение)  (Дата обращения 20.03.2023). - Текст электронный<br>
+12. translated.turbopages.orgо официальный сайт. URL - https://translated.turbopages.org/proxy_u/en-ru.ru.5d3f6415-641c943a-2d94ef89-74722d776562/https/en.wikipedia.org/wiki/Apple_Remote_Desktop  (Дата обращения 24.03.2023). - Текст электронный<br>
+13.www.youtube.com официальный сайт. URL - https://www.youtube.com/watch?v=Jx-1oHhVlsE   (Дата обращения 25.03.2023). - Видео формат<br>
+14.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/TLS (Дата обращения 25.03.2023). - Текст электронный<br>
+15.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Virtual_Network_Computing  (Дата обращения 25.03.2023). - Текст электронный<br>
+16.ru.wikipedia.org официальный сайт. URL -  https://ru.wikipedia.org/wiki/Протокол_RFB  (Дата обращения 25.03.2023). - Текст электронный<br>
+17.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/Remote_Desktop_Protocol (Дата обращения 25.03.2023). - Текст электронный<br>
+18.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/SLIP  (Дата обращения 25.03.2023). - Текст электронный<br>
+19.ru.wikipedia.org официальный сайт. URL - https://ru.wikipedia.org/wiki/SSL  (Дата обращения 25.03.2023). - Текст электронный<br>
                        
